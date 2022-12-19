@@ -2,7 +2,7 @@
 
 A Python3 implement of Minecraft login via Microsoft account.
 
-Follow the script, and it will show your Minecraft id, name and body.
+This script will verify that a Microsoft account owns Minecraft. If so, it will display your Minecraft id, name and body.
 
 ## Requirements
 
